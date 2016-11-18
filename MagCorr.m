@@ -1,6 +1,7 @@
 function DirTrue = MagCorr(Direction,Declination)
 % Version 1: 18/11/2016 (MB)
 % Corrects direction for declination
+% Produces DirTrue variable
 
 
 if Declination > 0
